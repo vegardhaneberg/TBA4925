@@ -1,7 +1,7 @@
 # TBA4925
 Code for the Master's thesis of Mads Rindal and Vegard Haneberg, TBA4925
 
-Most of the developed code in this thesis is reated using notebooks. Several of the notebooks are stored with its output, and these can be accessed by simply entering the file. To run notebooksplease perform the following steps:
+Most of the developed code in this thesis is reated using notebooks. Several of the notebooks are stored with its output, and these can be accessed by simply entering the file. To run notebooks, please perform the steps below.
 
 1. Install ipython by running the following command:
 ```
